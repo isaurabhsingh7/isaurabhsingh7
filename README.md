@@ -42,9 +42,6 @@ I combine **SQL, Python and BI tools** with a strong foundation in statistics an
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 **Business Intelligence & Visualisation**
 
@@ -72,17 +69,6 @@ I combine **SQL, Python and BI tools** with a strong foundation in statistics an
 `Data Analysis` · `Data Visualisation` · `Dashboard Development` · `Business Reporting` · `Statistical Analysis` · `Database Querying` · `KPI Tracking` · `Marketing Analytics` · `Operations Analytics` · `Stakeholder Communication`
 
 ---
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=isaurabhsingh7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaurabhsingh7&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://streak-stats.demolab.com?user=isaurabhsingh7&theme=tokyonight&hide_border=true" />
-
-</div>
 
 <!--
 ## 🚀 Featured Projects  (delete this comment wrapper when you add real projects)
