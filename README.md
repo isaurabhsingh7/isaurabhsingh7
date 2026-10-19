@@ -1,16 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Saurabh%20Singh&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Business%20Analytics%20%E2%80%A2%20Data%20Insights%20%E2%80%A2%20Decision%20Support&descAlignY=62&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Saurabh%20Singh&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Business%20Analytics%20%E2%80%A2%20Data%20Insights%20%E2%80%A2%20Decision%20Support&descAlignY=60&descSize=18" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1100&color=36BCF7&center=true&vCenter=true&width=720&lines=Hello,+I'm+Saurabh+Singh+👋;Turning+data+into+decisions+📊;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau;Open+to+new+opportunities+🌍)](https://git.io/typing-svg)
 
+<br/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/isaurabhsingh7)
 [![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isaurabhsingh7@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/isaurabhsingh7)
 ![Profile Views](https://komarev.com/ghpvc/?username=isaurabhsingh7&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:2c5364,100:0f2027&height=2&section=header" width="100%"/>
 
 <h2 align="center">Hello, I'm Saurabh 👋</h2>
 
@@ -19,7 +22,7 @@
   Welcome to my GitHub, where I share my analytics work, dashboards and projects.
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:2c5364,100:0f2027&height=2&section=header" width="100%"/>
 
 ## 🧭 About Me
 
@@ -44,6 +47,7 @@ I combine **SQL, Python and BI tools** with a strong foundation in statistics an
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 **Business Intelligence & Visualisation**
@@ -51,6 +55,8 @@ I combine **SQL, Python and BI tools** with a strong foundation in statistics an
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
 
 **Statistics & Digital Analytics**
 
@@ -69,7 +75,11 @@ I combine **SQL, Python and BI tools** with a strong foundation in statistics an
 
 ## 🎯 Areas of Expertise
 
+<div align="center">
+
 `Data Analysis` · `Data Visualisation` · `Dashboard Development` · `Business Reporting` · `Statistical Analysis` · `Database Querying` · `KPI Tracking` · `Marketing Analytics` · `Operations Analytics` · `Stakeholder Communication`
+
+</div>
 
 ---
 
@@ -81,6 +91,14 @@ I combine **SQL, Python and BI tools** with a strong foundation in statistics an
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaurabhsingh7&layout=compact&theme=tokyonight&hide_border=true" />
 
 <img src="https://streak-stats.demolab.com?user=isaurabhsingh7&theme=tokyonight&hide_border=true" />
+
+</div>
+
+## 📊 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=isaurabhsingh7&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </div>
 
@@ -100,6 +118,9 @@ I combine **SQL, Python and BI tools** with a strong foundation in statistics an
 
 ### 📫 Let's connect. I'd be glad to hear from you.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/isaurabhsingh7)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isaurabhsingh7@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=110&section=footer" width="100%"/>
 
 </div>
