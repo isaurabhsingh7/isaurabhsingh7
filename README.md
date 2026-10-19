@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Saurabh%20Singh&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Business%20Analytics%20%E2%80%A2%20Data%20Insights%20%E2%80%A2%20Decision%20Support&descAlignY=62&descSize=17" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1100&color=36BCF7&center=true&vCenter=true&width=720&lines=Hello,+I'm+Saurabh+Singh+👋;Turning+data+into+decisions+📊;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau;Open+to+opportunities+in+the+UK+%26+USA+🌍)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1100&color=36BCF7&center=true&vCenter=true&width=720&lines=Hello,+I'm+Saurabh+Singh+👋;Turning+data+into+decisions+📊;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau;Open+to+new+opportunities+🌍)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/isaurabhsingh7)
 [![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isaurabhsingh7@gmail.com)
@@ -27,17 +27,8 @@ I combine **SQL, Python and BI tools** with a strong foundation in statistics an
 
 - 📊 **Focus:** data analysis, dashboards, reporting and business insight
 - 🧮 **Approach:** structured problem solving, statistical rigour and clear communication
-- 🤝 **Open to:** collaboration on data and analytics projects
-- 🌍 **Based in / open to:** opportunities across the **UK 🇬🇧 and USA 🇺🇸**
+- 🌍 **Open to:** new opportunities, collaborations and conversations
 - 📫 **Contact:** isaurabhsingh7@gmail.com
-
----
-
-## 🔄 How I Work
-
-| 1. Collect | 2. Clean | 3. Analyse | 4. Visualise | 5. Recommend |
-|:---:|:---:|:---:|:---:|:---:|
-| 🗄️ Query data with SQL | 🧹 Prepare and validate | 📈 Explore and model | 📊 Build dashboards | 💡 Support decisions |
 
 ---
 
