@@ -93,14 +93,4 @@ I combine **SQL, Python and BI tools** with a strong foundation in statistics an
 | [Customer Churn Analysis](https://github.com/isaurabhsingh7/REPO) | Identified key churn drivers through exploratory analysis | `Python` `Pandas` |
 | [Marketing Campaign Insights](https://github.com/isaurabhsingh7/REPO) | Compared channel performance and ROI | `Tableau` `Excel` |
 -->
-
----
-
-<div align="center">
-
-### 📫 Let's connect. I'd be glad to hear from you.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
-
-</div>
-<img width="451" height="684" alt="image" src="https://github.com/user-attachments/assets/4f6cae65-a4dd-4c28-9e60-e03cce42523b" />
+<div align="center"> ### 📫 Let's connect. I'd be glad to hear from you. [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/isaurabhsingh7) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isaurabhsingh7@gmail.com) <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=110&section=footer" width="100%"/> </div><div align="center"> ### 📫 Let's connect. I'd be glad to hear from you. [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/isaurabhsingh7) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isaurabhsingh7@gmail.com) <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=110&section=footer" width="100%"/> </div>
