@@ -1,27 +1,43 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Saurabh%20Singh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Business%20Analytics%20%7C%20Data%20Insights%20%7C%20Decision%20Support&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Saurabh%20Singh&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Business%20Analytics%20%E2%80%A2%20Data%20Insights%20%E2%80%A2%20Decision%20Support&descAlignY=62&descSize=17" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Business+Analytics+%7C+Data+Insights;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau;Turning+data+into+decisions+📊;Open+to+data+%26+analytics+roles+in+the+UK+🇬🇧)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1100&color=36BCF7&center=true&vCenter=true&width=720&lines=Hello,+I'm+Saurabh+Singh+👋;Turning+data+into+decisions+📊;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau;Open+to+opportunities+in+the+UK+%26+USA+🌍)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/isaurabhsingh7)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isaurabhsingh7@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isaurabhsingh7@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=isaurabhsingh7&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
 </div>
 
 ---
 
-## 👋 About Me
+<h2 align="center">Hello, I'm Saurabh 👋</h2>
 
-I'm a **business analytics professional** who turns raw data into clear, actionable insight. I combine **SQL, Python and BI tools** with a strong grounding in statistics to help teams make faster, better-informed decisions.
+<p align="center">
+  Business analytics professional focused on turning complex data into clear, actionable insight.<br/>
+  Welcome to my GitHub, where I share my analytics work, dashboards and projects.
+</p>
 
-- 📊 **What I do:** data cleaning, analysis, dashboards and business reporting
-- 🧮 **How I work:** structured problem solving, statistical thinking and clear communication of findings
-- 🌱 **Currently developing:** advanced SQL, Python for analytics and predictive modelling
+---
+
+## 🧭 About Me
+
+I combine **SQL, Python and BI tools** with a strong foundation in statistics and business thinking to help teams make faster, better-informed decisions. I care about clean data, clear visuals and insights that people can act on.
+
+- 📊 **Focus:** data analysis, dashboards, reporting and business insight
+- 🧮 **Approach:** structured problem solving, statistical rigour and clear communication
 - 🤝 **Open to:** collaboration on data and analytics projects
-- 🌍 **Looking for:** data analyst, business analyst and BI roles in the UK
+- 🌍 **Based in / open to:** opportunities across the **UK 🇬🇧 and USA 🇺🇸**
 - 📫 **Contact:** isaurabhsingh7@gmail.com
+
+---
+
+## 🔄 How I Work
+
+| 1. Collect | 2. Clean | 3. Analyse | 4. Visualise | 5. Recommend |
+|:---:|:---:|:---:|:---:|:---:|
+| 🗄️ Query data with SQL | 🧹 Prepare and validate | 📈 Explore and model | 📊 Build dashboards | 💡 Support decisions |
 
 ---
 
@@ -29,25 +45,32 @@ I'm a **business analytics professional** who turns raw data into clear, actiona
 
 <div align="center">
 
-**Core Analytics Stack**
+**Data & Programming**
 
-![SQL & Python](https://skillicons.dev/icons?i=python,mysql,postgres&theme=dark)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 **Business Intelligence & Visualisation**
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 **Statistics & Digital Analytics**
 
-![R](https://skillicons.dev/icons?i=r&theme=dark)
 ![SPSS](https://img.shields.io/badge/SPSS-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
 
 **Workflow**
 
-![Git](https://skillicons.dev/icons?i=git,github,vscode&theme=dark)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
@@ -55,7 +78,7 @@ I'm a **business analytics professional** who turns raw data into clear, actiona
 
 ## 🎯 Areas of Expertise
 
-`Data Analysis` · `Data Visualisation` · `Dashboard Development` · `Business Reporting` · `Statistical Analysis` · `Database Querying` · `KPI Tracking` · `Marketing & Operations Analytics` · `Stakeholder Communication`
+`Data Analysis` · `Data Visualisation` · `Dashboard Development` · `Business Reporting` · `Statistical Analysis` · `Database Querying` · `KPI Tracking` · `Marketing Analytics` · `Operations Analytics` · `Stakeholder Communication`
 
 ---
 
@@ -66,15 +89,17 @@ I'm a **business analytics professional** who turns raw data into clear, actiona
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=isaurabhsingh7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaurabhsingh7&layout=compact&theme=tokyonight&hide_border=true" />
 
+<img src="https://streak-stats.demolab.com?user=isaurabhsingh7&theme=tokyonight&hide_border=true" />
+
 </div>
 
 <!--
-## 🚀 Featured Projects  (remove this comment wrapper once you add real projects)
+## 🚀 Featured Projects  (delete this comment wrapper when you add real projects)
 
 | Project | What it does | Tools |
 |---|---|---|
 | [Sales Performance Dashboard](https://github.com/isaurabhsingh7/REPO) | Interactive dashboard tracking revenue, margin and regional trends | `Power BI` `SQL` |
-| [Customer Churn Analysis](https://github.com/isaurabhsingh7/REPO) | Identified key churn drivers using exploratory analysis | `Python` `Pandas` |
+| [Customer Churn Analysis](https://github.com/isaurabhsingh7/REPO) | Identified key churn drivers through exploratory analysis | `Python` `Pandas` |
 | [Marketing Campaign Insights](https://github.com/isaurabhsingh7/REPO) | Compared channel performance and ROI | `Tableau` `Excel` |
 -->
 
@@ -82,7 +107,7 @@ I'm a **business analytics professional** who turns raw data into clear, actiona
 
 <div align="center">
 
-### 📫 Let's connect
+### 📫 Let's connect. I'd be glad to hear from you.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
 
