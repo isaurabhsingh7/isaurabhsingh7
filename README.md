@@ -79,7 +79,6 @@ I combine **SQL, Python and BI tools** with a strong foundation in statistics an
 | [Customer Churn Analysis](https://github.com/isaurabhsingh7/REPO) | Identified key churn drivers through exploratory analysis | `Python` `Pandas` |
 | [Marketing Campaign Insights](https://github.com/isaurabhsingh7/REPO) | Compared channel performance and ROI | `Tableau` `Excel` |
 -->
--->
 
 ---
 
