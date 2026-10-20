@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/isaurabhsingh7)
 [![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isaurabhsingh7@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=isaurabhsingh7&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+[![Profile Views](https://hits.sh/github.com/isaurabhsingh7.svg?style=for-the-badge&label=Profile%20Views&color=0e75b6)](https://hits.sh/github.com/isaurabhsingh7/)
 
 </div>
 
